@@ -1,4 +1,4 @@
-# Object-tracking-using-YOLOv8-and-DeepSort
+# Real-time object tracking
 
 - This project aims to detect moving objects in a video and keep track of them.
 - YOLOv8 is used to detect and localize each object in each frame. 
