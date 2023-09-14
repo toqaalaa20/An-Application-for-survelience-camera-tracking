@@ -12,8 +12,6 @@ In this project:
 
 The test video:
 
-https://github.com/toqaalaa20/Object-tracking-using-YOLOv8-and-DeepSort/assets/90696437/1a6fa982-d012-4393-86d2-002537429a26
 
-The result video:
 
 
