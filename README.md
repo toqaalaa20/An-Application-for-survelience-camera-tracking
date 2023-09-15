@@ -10,10 +10,35 @@ In this project:
 - The tracker is updated with the output of the non-max suppression 
 - Finally, a new video is produced using the updated tracks.
 
-The test video:
+### For testing the code on your video:
+1. Clone this repository
+```
+git clone https://github.com/toqaalaa20/Real-time-object-tracking
+```
 
-https://github.com/toqaalaa20/Object-tracking-using-YOLOv8-and-DeepSort/assets/90696437/1a6fa982-d012-4393-86d2-002537429a26
+2. Install the requirements file
+```
+pip install requirements.txt
+```
+3. Input your source video
+- For an input video:
 
-The result video:
+```
+python main.py --input "path to your video"
+```
+- For using your camera:
+  
+```
+python main.py --input camera
+```
+
+#### Results:
+
+https://github.com/toqaalaa20/Real-time-object-tracking/assets/90696437/d008c864-1430-440a-abae-6c98f6a66e16
+
+   
+
+
+
 
 
