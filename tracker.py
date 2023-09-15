@@ -54,7 +54,9 @@ class Object_Tracker:
 
             id = track.track_id
 
-            tracks.append(Track(id, bbox))
+            class_name = track.get_class()
+
+            tracks.append(Track(id, bbox, class_name))
 
         self.tracks = tracks
 
@@ -62,7 +64,13 @@ class Object_Tracker:
 class Track:
     track_id = None
     bbox = None
+    class_name= None
 
-    def __init__(self, id, bbox):
+    def __init__(self, id, bbox, name):
         self.track_id = id
         self.bbox = bbox
+        self.class_name= name
+
+
+
+
