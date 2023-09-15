@@ -48,7 +48,6 @@ if not vid.isOpened():
     print("Error: Could not open input source.")
     exit(1)
 
-
 while (True):
     # start_time = time.time()
 
@@ -140,8 +139,6 @@ while (True):
 
 cv2.destroyAllWindows()
 vid.release()
-
-
 
 
 
