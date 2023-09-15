@@ -16,7 +16,7 @@ In this project:
 git clone https://github.com/toqaalaa20/Real-time-object-tracking
 ```
 
-2. Install the requirements file
+2. Install the requirements 
 ```
 pip install requirements.txt
 ```
