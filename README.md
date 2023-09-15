@@ -12,6 +12,8 @@ In this project:
 
 The test video:
 
+https://github.com/toqaalaa20/Real-time-object-tracking/assets/90696437/d008c864-1430-440a-abae-6c98f6a66e16
+
 
 
 
