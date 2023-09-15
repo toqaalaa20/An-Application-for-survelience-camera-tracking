@@ -11,8 +11,31 @@ In this project:
 - Finally, a new video is produced using the updated tracks.
 
 The test video:
-
 https://github.com/toqaalaa20/Real-time-object-tracking/assets/90696437/d008c864-1430-440a-abae-6c98f6a66e16
+
+### For testing the code on your video:
+1. Clone this repository
+```
+git clone https://github.com/toqaalaa20/Real-time-object-tracking
+```
+
+2. Install the requirements file
+```
+pip install requirements.txt
+```
+3. Input your source video
+- For an input video:
+
+```
+python main.py --input "path to your video"
+```
+- For using your camera:
+  
+```
+python main.py --input camera
+```
+   
+
 
 
 
