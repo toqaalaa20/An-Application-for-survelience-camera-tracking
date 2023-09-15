@@ -10,7 +10,7 @@ In this project:
 - The tracker is updated with the output of the non-max suppression 
 - Finally, a new video is produced using the updated tracks.
 
-### For testing the code on your video:
+### Get Started 
 1. Clone this repository
 ```
 git clone https://github.com/toqaalaa20/Real-time-object-tracking
